@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/temple-donations/precache-manifest.e07b61f17200ee87c10b0b604a728dc5.js"
+  "/temple-donations/precache-manifest.4ad935dc64823b29701ef4f28c10466b.js"
 );
 
 self.addEventListener('message', (event) => {
